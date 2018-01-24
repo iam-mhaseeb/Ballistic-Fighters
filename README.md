@@ -29,7 +29,7 @@ If you get any other errors or you might have fixed it, be sure to send me so th
 ### Version
 0.2 BETA
 
-### License
+### TERMS OF USE
 
-Under HSY
+Project is open source and ready for use in your next project, but you must credit the developer.
 
