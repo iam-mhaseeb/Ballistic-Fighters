@@ -13,7 +13,7 @@ This project was created in Microsoft Visual Studio 2013 with SFML (2.3.2) 32-bi
 ### Installation
 
   - Download the file as zip or clone it to your computer
-  - Download the latest SFML for C++ and follow [this guide](www.sfml-dev.org/tutorials/2.3/start-vc.php) on setting it up
+  - Download the latest SFML for C++ and follow [this guide](whttps://www.sfml-dev.org/tutorials/2.5/start-vc.php) on setting it up
   - Compile everything and make sure you've correctly set up SFML
   - Run the program
   - Party
